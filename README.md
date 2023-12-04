@@ -36,7 +36,8 @@ This Recipe application is a dynamic and user-friendly recipe application develo
 
 - <a href="https://www.postgresql.org/">PostgreSQL</a>
 - <a href="https://rubyonrails.org/">Ruby on Rails</a>
-
+- <a href="https://rubyonrails.org/">React</a>
+- <a href="https://rubyonrails.org/">React-Router-Dom</a>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
